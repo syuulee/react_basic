@@ -1,7 +1,7 @@
 const Main = ({ lee, work }) => {
     return (
         <main>
-            {lee}은 {work}를 즐겨합니다.
+            {lee}는 {work}를 즐겨합니다.
         </main>
     )
 
